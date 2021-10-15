@@ -2,6 +2,6 @@ package com.dam1;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola mundo doble");
+        System.out.println("Hola mundo triple");
     }
 }
